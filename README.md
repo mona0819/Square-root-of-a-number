@@ -15,7 +15,7 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
+```python
 #Developed by: Mohana Priya D
 #Register No.: 212225230182
 def squareroot(num1,iternum):
